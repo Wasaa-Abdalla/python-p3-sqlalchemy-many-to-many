@@ -82,3 +82,4 @@ class TestUser:
         session.query(User).delete()
         session.commit()
         
+        
